@@ -7,4 +7,4 @@ This allowed my group and I to analyze data from using this Arduino setup to pre
 
 * writeDigitalPin
 
-This is the code to turn on a specific LED. The 1 meant that the light would be turned on by it's parameters in the elseif loop, and the 0 meant that the light would be turned off.
+     This is the code to turn on a specific LED. The 1 meant that the light would be turned on by it's parameters in the elseif loop, and the 0 meant that the light would be turned off.
