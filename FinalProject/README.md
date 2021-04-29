@@ -6,4 +6,5 @@ This was created to test how well people were social distancing at the end of 20
 This allowed my group and I to analyze data from using this Arduino setup to present on how many people fit into each category of social distancing. 
 
 * writeDigitalPin
+
 This is the code to turn on a specific LED. The 1 meant that the light would be turned on by it's parameters in the elseif loop, and the 0 meant that the light would be turned off.
